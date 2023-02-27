@@ -1,8 +1,9 @@
 /**
-* @type {import('vite').UserConfig}
-*/
+ * @type {import('vite').UserConfig}
+ */
 export default {
-    css: {
-        devSourcemap: true,
-    },
-}
+  css: {
+    devSourcemap: true,
+  },
+  base: '/INVO_AI_Landing/',
+};
