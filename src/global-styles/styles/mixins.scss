@@ -1,28 +1,28 @@
 @mixin headerBig {
-  font-size: 4.8rem;
+  font-size: 48px;
   line-height: 56px;
   font-weight: 500;
 }
 
 @mixin headerMedium {
-  font-size: 3.2rem;
+  font-size: 32px;
   line-height: 40px;
   font-weight: 500;
 }
 @mixin headerSmall {
-  font-size: 2rem;
-  line-height: 20px;
+  font-size: 20px;
+  line-height: 24px;
   font-weight: 500;
 }
 
 @mixin bodyBig {
-  font-size: 1.6rem;
+  font-size: 16px;
   line-height: 24px;
   font-weight: 400;
 }
 
 @mixin bodySmall {
-  font-size: 1.4rem;
+  font-size: 14px;
   line-height: 22px;
   font-weight: 400;
 }
